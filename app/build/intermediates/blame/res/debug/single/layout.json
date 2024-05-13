@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\YSXP\\portfolio projects\\ecommerce-android-app-master\\ecommerce-android-app-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\YSXP\\portfolio projects\\ecommerce-android-app-master\\ecommerce-android-app-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\YSXP\\portfolio projects\\ecommerce-android-app-master\\ecommerce-android-app-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "D:\\YSXP\\portfolio projects\\ecommerce-android-app-master\\ecommerce-android-app-master\\app\\src\\main\\res\\layout\\activity_home.xml"
+    }
+]
